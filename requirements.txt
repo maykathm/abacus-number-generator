@@ -1,1 +1,3 @@
 pyttsx3
+pillow
+pygame-ce

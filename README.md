@@ -22,6 +22,7 @@ General
 - `--num-loop`/`-l` - number of number sets to generate
 - `--pause-sec`/`-p` - seconds to pause between each number generated (can be a decimal)
 - `--use-negatives` - if set, will generate also negative numbers (while always keeping intermediate totals positive)
+- `--flash` - if set, shows each number full-screen in the largest digits that fit the terminal `pause-sec` seconds before it is replaced by the next one.
 
 Voice control
 - `--speed` - how fast the voice should speak ("slow", "medium", "fast", "chipmunk")
